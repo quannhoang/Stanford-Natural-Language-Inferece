@@ -1,5 +1,5 @@
 # Stanford-Natural-Language-Inferece
-Sentences sentimental comparision using Recurrent Neural Network
+Sentences sentimental comparision using Recurrent Neural Network<br/>
 Date: 04/15/2020
 Project description: building a simple neural network to analyze and compare the sentimental of two sentences (in English). The network takes two sentences as input and determine if two sentences are contradicting, entailing or neutral.
 Data example:
